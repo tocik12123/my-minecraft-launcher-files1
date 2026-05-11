@@ -1,0 +1,6 @@
+{
+  "pack_version": "1.0.0",
+  "zip_url": "https://твой-хостинг/modpack-1.0.0.zip",
+  "sha256": "https://disk.yandex.ru/d/0TLNmLNSohqhLw",
+  "clean_dirs": ["mods", "config", "resourcepacks"]
+}
